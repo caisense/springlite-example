@@ -2,7 +2,7 @@
 
 一个轻量级、高性能的 Java Web 框架，提供 IoC、AOP、MVC、JDBC 等企业级功能。
 
-**当前版本**：1.0.0 | **Java 版本**：25 | **打包状态**：✅ 完成
+**当前版本**：1.0.0 | **Java 版本**：25
 
 ---
 
@@ -268,6 +268,18 @@ mvn clean compile -U
 JavaDoc 文档：  完整
 源代码包：      包含
 ```
+## ©️版权声明
+
+- **参考**：https://github.com/michaelliao/summer-framework
+- **License**：GNU General Public License v3.0
+
+---
+
+## 🎉 特别致谢
+
+廖雪峰大佬
+
+**祝你使用愉快！** 🚀
 
 ---
 
@@ -279,29 +291,6 @@ JavaDoc 文档：  完整
 - [ ] 在实际项目中集成使用
 - [ ] 根据需要发布到远程仓库
 
----
-
-## 📞 联系方式
-
-- **维护者**：Caisense
-- **邮箱**：caisense0823@gmail.com
-- **License**：GNU General Public License v3.0
-
----
-
-## 🎉 特别致谢
-
-感谢使用 SpringLite Framework！
-
-如有问题或建议，欢迎提出。
-
-**祝你使用愉快！** 🚀
-
----
-
-**最后更新**：2026-04-23  
-**框架版本**：1.0.0  
-**文档版本**：1.0
 
 ---
 
