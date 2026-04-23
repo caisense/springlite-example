@@ -268,18 +268,6 @@ mvn clean compile -U
 JavaDoc 文档：  完整
 源代码包：      包含
 ```
-## ©️版权声明
-
-- **参考**：https://github.com/michaelliao/summer-framework
-- **License**：GNU General Public License v3.0
-
----
-
-## 🎉 特别致谢
-
-廖雪峰大佬
-
-**祝你使用愉快！** 🚀
 
 ---
 
