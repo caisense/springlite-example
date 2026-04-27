@@ -1,8 +1,7 @@
-package com.example.web;
+package com.handa.springlite.web;
 
 import com.handa.springlite.annotation.Component;
 import com.handa.springlite.annotation.Order;
-import com.handa.springlite.web.FilterRegistrationBean;
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;
 import org.slf4j.Logger;

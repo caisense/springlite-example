@@ -170,7 +170,7 @@ public class UserController {
 @Component
 public class LoggingAspect {
     
-    @Before("execution(* com.example..*.*(..))")
+    @Before("execution(* com.springlite..*.*(..))")
     public void logBefore(JoinPoint jp) {
         System.out.println("执行方法: " + jp.getSignature());
     }

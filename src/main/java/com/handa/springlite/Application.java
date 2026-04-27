@@ -1,4 +1,4 @@
-package com.example;
+package com.handa.springlite;
 
 import com.handa.springlite.boot.SpringLiteApplication;
 

@@ -1,4 +1,4 @@
-package com.example.service;
+package com.handa.springlite.service;
 
 import com.handa.springlite.annotation.Autowired;
 import com.handa.springlite.annotation.Component;

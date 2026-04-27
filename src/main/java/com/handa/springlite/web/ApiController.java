@@ -1,7 +1,7 @@
-package com.example.web;
+package com.handa.springlite.web;
 
-import com.example.User;
-import com.example.service.UserService;
+import com.handa.springlite.User;
+import com.handa.springlite.service.UserService;
 import com.handa.springlite.annotation.Autowired;
 import com.handa.springlite.annotation.GetMapping;
 import com.handa.springlite.annotation.PathVariable;

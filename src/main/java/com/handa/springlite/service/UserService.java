@@ -1,6 +1,6 @@
-package com.example.service;
+package com.handa.springlite.service;
 
-import com.example.User;
+import com.handa.springlite.User;
 import com.handa.springlite.annotation.Autowired;
 import com.handa.springlite.annotation.Component;
 import com.handa.springlite.annotation.Transactional;

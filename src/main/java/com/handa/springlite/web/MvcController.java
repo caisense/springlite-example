@@ -1,10 +1,9 @@
-package com.example.web;
+package com.handa.springlite.web;
 
-import com.example.User;
-import com.example.service.UserService;
+import com.handa.springlite.User;
+import com.handa.springlite.service.UserService;
 import com.handa.springlite.annotation.*;
 import com.handa.springlite.exception.DataAccessException;
-import com.handa.springlite.web.ModelAndView;
 import jakarta.servlet.http.HttpSession;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
